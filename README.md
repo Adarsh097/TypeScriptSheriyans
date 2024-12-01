@@ -1,2 +1,4 @@
 # TypeScriptSheriyans
-This covers the basics of TypeScript
+This covers the basics of TypeScript.
+
+
